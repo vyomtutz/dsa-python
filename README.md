@@ -11,7 +11,7 @@ Last updated: 2026-11-23
 
 | Pattern | Folder | Solved |
 |---|---|---|
-| Arrays & Hashing | [`arrays-hashing/`](arrays-hashing/) | 0 |
+| Arrays & Hashing | [`arrays-hashing/`](arrays-hashing/) | 1 |
 | Two Pointers | [`two-pointers/`](two-pointers/) | 0 |
 | Sliding Window | [`sliding-window/`](sliding-window/) | 0 |
 | Stack | [`stack/`](stack/) | 0 |
